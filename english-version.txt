@@ -1,0 +1,29 @@
+Crumble Count — Game Info (English)
+==================================
+
+Title:
+Crumble Count — Hop the Stacks to Zero
+
+Category:
+Casual (Puzzle · Grid · Brain Teaser · 2D · Side-Scrolling · Single-player · Browser · Free)
+
+TAGS:
+Casual, Puzzle, Grid, Brain Teaser, Block, One-Button, Minimal, Thinking, 2D, Side-Scrolling, Single-player, Level-Based, Browser Game, HTML5, Free-to-Play, No Download, Desktop and Mobile, Keyboard Controls, Touch Controls, Family Friendly
+
+Short Description:
+Crumble Count is a bitesized grid puzzle played with two buttons. Every numbered block is a stack of candy bricks, and every stomp takes one brick off. Crack the last brick and the block is gone — but so is the floor under your feet, which is exactly how you drop to the next level. Forty hand-built boards add springs, pushable crates, gates, bombs, hard bricks, flip tiles and hidden gems, one new idea at a time. Clear the board inside the move budget for three stars. No timers, no luck.
+
+How to Play:
+The board is a side-view grid. You are a little candy character standing on top of a stack. Press left or right to walk one cell at a time. Walk into a numbered block and you hop up and stomp it once: every stomp subtracts one brick from that block's number.
+
+The number on the block is how many stomps it takes. A block marked "3" needs three hits. Hit it once and the number drops to two. Hit it twice and it drops to one. Hit it three times and the block pops — disappears in a little burst of candy — and the cell it was sitting on becomes empty air.
+
+Here is the whole trick. If the cell under your feet becomes empty air, you fall. Falling out of the level means you lose, and you can't walk on empty cells. So the order matters more than anything: break the blocks you can only reach from above first. Once you drop through a hole, you almost never climb back up. Clear the top floor before you touch the bottom one.
+
+Every board has a move budget. The par count is the BFS-optimal solution length. You get par plus fourteen moves. Run out and the run ends. Star ratings: finish within par plus three for three stars, within par plus nine for two stars, anything above for one. Revive after a failed run adds eight moves back.
+
+Forty boards, each teaching one new idea. Springs bounce you across gaps. Pushable crates block the path or fill the hole. Pressure plates open gates. Bombs blow up the blocks around them. Hard bricks take extra stomps. Flip tiles toggle on landing. Hidden gems sit off the main path and pay 25 coins each. Stars pay 15 coins apiece.
+
+Three background phases ride the levels: day for levels one to twenty, dusk for twenty-one to thirty-three, night for thirty-four to forty. Frame-by-frame hop, stomp and pop animation, candy-thick outlines and hard bottom shadows.
+
+No timers. No random. One clean solution exists on every board, and it was solver-verified before the level shipped. Arrow keys on desktop, on-screen pads on touch. Free, no install, no account. Walk into the block. Pick the order.

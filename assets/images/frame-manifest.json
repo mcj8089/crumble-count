@@ -1,0 +1,26 @@
+{
+  "dir": "assets/images/frames/",
+  "ext": "webp",
+  "canvas": 512,
+  "baseline": 20,
+  "note": "帧清单是产图 / 运行时 / 校验三方唯一事实来源。actions 里的 frames 必须与磁盘文件数量一致；loop=循环动作 4-6 帧，once=一次性动作 3-4 帧；由 tools/gen_art.py 直接生成。",
+  "characters": {
+    "gummy": {
+      "canvas": 512,
+      "baseline": 20,
+      "actions": {
+        "idle": { "frames": 4, "fps": 6, "loop": true },
+        "hop": { "frames": 4, "fps": 14, "loop": false },
+        "land": { "frames": 3, "fps": 16, "loop": false },
+        "push": { "frames": 4, "fps": 12, "loop": false },
+        "cheer": { "frames": 4, "fps": 10, "loop": false },
+        "dizzy": { "frames": 4, "fps": 8, "loop": true }
+      }
+    }
+  },
+  "fx": {
+    "pop": { "frames": 5, "fps": 18, "loop": false },
+    "spark": { "frames": 5, "fps": 16, "loop": false },
+    "dust": { "frames": 4, "fps": 14, "loop": false }
+  }
+}
